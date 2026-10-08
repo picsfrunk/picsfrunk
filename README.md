@@ -2,57 +2,35 @@
 
 **Full-Stack Developer · Technical Coordinator**
 
-Técnico en Programación Informática, recibido en **UNSAM en 2024**.
+I earned a **Technical Degree in Computer Programming from UNSAM in 2024**.
 
-Desarrollo software y coordino proyectos técnicos, combinando experiencia en desarrollo de aplicaciones web con mi experiencia profesional en servicios electromecánicos industriales.
+I develop software and coordinate technical projects, combining web development experience with a background in industrial electromechanical services. I focus on turning real-world problems into practical software solutions through APIs, automation, and system integration.
 
-Me interesa especialmente transformar problemas reales en soluciones de software: diseñar APIs, automatizar procesos, integrar servicios y construir herramientas que simplifiquen operaciones técnicas y administrativas.
+## Tech Stack
 
-## Stack tecnológico
+* **Frontend:** React, Angular, TypeScript
+* **Backend:** Kotlin, Spring Boot, Node.js, Express.js
+* **Databases:** MongoDB, PostgreSQL
+* **Infrastructure & Tools:** Docker, Git, Railway
+* **Automation & AI:** n8n, web scraping, local LLMs, coding agents
 
-- **Frontend:** React, Angular, TypeScript
-- **Backend:** Kotlin, Spring Boot, Node.js, Express.js
-- **Bases de datos:** MongoDB, PostgreSQL
-- **Infraestructura:** Docker, Git, Railway
-- **Automatización:** n8n, APIs, web scraping
-- **IA:** LLMs locales, Ollama y agentes de código
-
-## Proyectos destacados
+## Featured Project
 
 ### Meyfer
 
-Proyecto web desarrollado para la gestión y operación de un e-commerce, incluyendo backend, frontend, administración y servicios de scraping y sincronización de datos.
+E-commerce platform comprising a backend, scraping services for catalog synchronization, an admin dashboard, and an Angular application.
 
-Participé principalmente en el desarrollo y evolución de la arquitectura, backend, herramientas de scraping y aplicaciones frontend.
+I contributed to the architecture, backend development, scraping services, and frontend applications.
 
-**Repositorios:**
+**Repositories:** [Backend](https://github.com/picsfrunk/meyfer-backend-expressjs) · [Scraper](https://github.com/picsfrunk/meyfer-scraper-express) · [Admin](https://github.com/picsfrunk/meyfer-admin-react) · [App](https://github.com/picsfrunk/meyfer-app-angular)
 
-- [Backend](https://github.com/picsfrunk/meyfer-backend-expressjs)
-- [Scraper](https://github.com/picsfrunk/meyfer-scraper-express)
-- [Admin](https://github.com/picsfrunk/meyfer-admin-react/)
-- [App](https://github.com/picsfrunk/meyfer-app-angular)
+## Current Focus
 
-## Actualmente
+* Building SaaS solutions for technical service management and industrial maintenance.
+* Developing backend services with Kotlin and Spring Boot.
+* Automating workflows and integrating AI tools into software development.
+* Exploring IoT applications for industrial equipment monitoring and contributing to open-source projects.
 
-Estoy trabajando en proyectos relacionados con:
+## Beyond Code
 
-- Arquitecturas SaaS para la gestión de servicios técnicos y mantenimiento industrial.
-- Automatización de procesos mediante APIs, workflows y n8n.
-- Desarrollo backend con Kotlin y Spring Boot.
-- Integración de herramientas de IA en workflows de desarrollo.
-- IoT y monitoreo de equipos industriales.
-- Open Source y contribuciones a proyectos de código abierto.
-
-## Experiencia interdisciplinaria
-
-Mi experiencia combina desarrollo de software con trabajo técnico en el ámbito industrial.
-
-En software trabajo principalmente con aplicaciones web, APIs REST, automatización, procesamiento de datos e integración de servicios.
-
-En el ámbito industrial participo en la coordinación de servicios electromecánicos, mantenimiento de equipos de bombeo y planificación de trabajos técnicos.
-
-Esta combinación me permite abordar el desarrollo de software no solamente desde la perspectiva técnica, sino también desde el conocimiento del problema y del proceso que se busca resolver.
-
-## Intereses
-
-Además del desarrollo de software, me interesan la producción de audio y la síntesis musical con Ableton Live.
+My interests also include audio production and sound synthesis with Ableton Live.
